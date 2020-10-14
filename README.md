@@ -53,7 +53,9 @@ switch(id) {
 ```
 
 #### Usage
- 
+```
+cd Live-RSS-Feed-Reader
+```
 Initiate a debug APK build:
 ```
 gradlew assembleDebug
